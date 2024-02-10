@@ -1,4 +1,4 @@
-import logo from './logo.svg';
+import logo from './tire_img.png';
 import './App.css';
 
 function App() {
